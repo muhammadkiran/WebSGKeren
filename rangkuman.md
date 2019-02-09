@@ -2,13 +2,13 @@
 
 ## Git  
 Git berpikir tentang datanya lebih seperti serangkaian snapshot dari sistem file miniatur.  
-Dengan Git, setiap kali Anda berkomitmen, atau menyimpan status proyek Anda, Git pada dasarnya mengambil gambar seperti apa semua file Anda pada saat itu dan menyimpan referensi ke snapshot itu.  
+Dengan Git, setiap kali Anda commit, atau menyimpan status proyek Anda, Git pada dasarnya mengambil image seperti apa semua file Anda pada saat itu dan menyimpan referensi ke snapshot itu.  
 Agar efisien, jika file tidak berubah, Git tidak menyimpan file lagi, hanya tautan ke file identik sebelumnya yang telah disimpan.  
 Git berpikir tentang datanya lebih seperti aliran snapshot.  
 Ketika melakukan tindakan di Git, hampir semuanya hanya menambahkan data ke basis data Git.  
 
 ## HTML  
-**Hypertext Markup Language** merupakan protokol yang digunakan untuk mentransfer data atau dokumen dari web server ke browser. HTML memungkinkan kita menjelajahi internet dan melihat halaman web. Tidak hanya itu, HTML juga berfungsi sebagai pengintergrasian gambar dengan tulisan, berkas suara dan rekaman gambar hidup.
+**Hypertext Markup Language** merupakan protokol yang digunakan untuk mentransfer data atau dokumen dari web server ke browser. HTML memungkinkan kita menjelajahi internet dan melihat halaman web. Tidak hanya itu, HTML juga berfungsi sebagai pengintegrasian gambar dengan tulisan, berkas suara dan rekaman gambar hidup.
 
 ## CSS
 **Cascanding Style Sheet (CSS)** adalah style yang digunakan untuk mengatur tampilan dari halaman web. Dengan menggunakan CSS maka dapat menghasilkan tampilan web yang indah dan menarik.
